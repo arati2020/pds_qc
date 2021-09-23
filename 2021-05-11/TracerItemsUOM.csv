@@ -1,0 +1,34 @@
+,Item Tracer Category,ProductName,UOM,Base Unit,Base Unit Multiplier,count
+0,Combined Oral Contraceptives,"Levonorgestrel/Ethinyl Estradiol 150/30 mcg + Fe 75 mg, 28 Tablets/Cycle (PS), 1 Cycle                                          ",UNT,Cycle,1.0,80
+1,Combined Oral Contraceptives,"Levonorgestrel/Ethinyl Estradiol 150/30 mcg + Fe 75 mg, 28 Tablets/Cycle (SM), 1 Cycle                                          ",UNT,Cycle,1.0,21
+2,Condoms,"Male Condom (Latex) Lubricated, Asodagi, 53 mm, 4 Pcs/Wallet, 15 Wallet/Disp, 3000 Pieces                                       ",CAS,Piece,3000.0,2
+3,Condoms,"Male Condom (Latex) Lubricated, Blue/Gold, 53 mm, 3000 Pieces                                                                   ",CAS,Piece,3000.0,1
+4,Condoms,"Male Condom (Latex) Lubricated, Dume Classic, 53 mm, 3 Pcs/Wallet, 24 Wallet/Disp, 2592 Pieces                                  ",CAS,Piece,2592.0,3
+5,Condoms,"Male Condom (Latex) Lubricated, Dume Desire Red Strawberry, 53 mm, 3 Pcs/Wallet, 24 Wallet/Disp, 2592 Pieces                    ",CAS,Piece,2592.0,2
+6,Condoms,"Male Condom (Latex) Lubricated, Generic Red Strawberry, 53 mm, 3000 Pieces                                                      ",CAS,Piece,3000.0,1
+7,Condoms,"Male Condom (Latex) Lubricated, No Logo, 53 mm, 3000 Pieces                                                                     ",CAS,Piece,3000.0,1
+8,Condoms,"Male Condom (Latex) Lubricated, No Logo, 53 mm, 4320 Pieces                                                                     ",CAS,Piece,4320.0,2
+9,Condoms,"Male Condom (Latex) Lubricated, Protector Plus Banane, 53 mm, 4 Pcs/Wallet, 15 Wallet/Disp, 3000 Pieces                         ",CAS,Piece,3000.0,1
+10,Condoms,"Male Condom (Latex) Lubricated, Protector Plus, 53 mm, 3000 Pieces                                                              ",CAS,Piece,3000.0,1
+11,Copper-Bearing Intrauterine Devices,"Copper TCu380A Intrauterine Device, 1 Each                                                                                      ",PCS,Each,1.0,10
+12,Copper-Bearing Intrauterine Devices,"Copper TCu380A Intrauterine Device, 300 Each                                                                                    ",PKG,Each,300.0,12
+13,Copper-Bearing Intrauterine Devices,"Copper TCu380A Intrauterine Device, 600 Each                                                                                    ",PKG,Each,600.0,4
+14,Emergency Oral Contraceptives,"Levonorgestrel 0.75 mg Tablet, 2 Tablets                                                                                        ",PKG,Tablet,2.0,4
+15,Emergency Oral Contraceptives,"Levonorgestrel 1.5 mg Tablet, 1 Tablet                                                                                          ",PKG,Tablet,1.0,11
+16,Implantable Contraceptives,"Etonogestrel 68 mg/Rod, 1 Rod Implant, 1 Each                                                                                   ",UNT,Each,1.0,57
+17,Implantable Contraceptives,"Levonorgestrel 75 mg/Rod w/ Trocar, 3 Year Efficacy, 2 Rod Implant, 1 Each                                                      ",PCS,Each,1.0,27
+18,Implantable Contraceptives,"Levonorgestrel 75 mg/Rod w/ Trocar, 5 Year Efficacy, 2 Rod Implant, 1 Each                                                      ",PCS,Each,1.0,31
+19,Injectable Contraceptives,"Depot (IM) Medroxyprogesterone Acetate 150 mg/mL (1 mL) Vial, SR, 1 Vial                                                        ",UNT,Vial,1.0,14
+20,Injectable Contraceptives,"Depot (IM) Medroxyprogesterone Acetate 150 mg/mL (1 mL) Vial, w/ AD Syringe, 1 Each                                             ",UNT,Each,1.0,4
+21,Injectable Contraceptives,"Depot (IM) Medroxyprogesterone Acetate 150 mg/mL (1 mL) Vial, w/ AD Syringe, Burn Boxes, 1 Each                                 ",UNT,Each,1.0,76
+22,Injectable Contraceptives,"Depot (SC) Medroxyprogesterone Acetate 104 mg/0.65 mL, Pre-Filled Uniject Device, 1 Syringe                                     ",UNT,Syringe,1.0,44
+23,Injectable Contraceptives,"Norethisterone Enantate 200 mg/mL (1 mL) Ampoule (SC), Oily Solution, 100 Ampoules                                              ",PKG,Ampoule,100.0,1
+24,Other Non-Pharma,"Sharps Container, Cardboard, 5 L, White, Disposable, Water Resistant, 5 Each                                                    ",PKG,Each,5.0,6
+25,Other Non-Pharma,"Sharps Container, Paperboard, 5L, WHO Spec, 150 Each                                                                            ",CTN,Each,150.0,3
+26,Other Non-Pharma,"Syringe, With Needle, 1 mL, 22G x 1.0 in, Auto-Disable, Sterile, Single Use, 100 Each                                           ",BOX,Each,100.0,8
+27,Other Non-Pharma,"Syringe, With Needle, 1 mL, 22G x 1.0 in, Auto-Disable, Sterile, Single Use, 200 Each                                           ",CAS,Each,200.0,1
+28,Other Non-Pharma,"Syringe, With Needle, 2 mL, 24G x 1.0 in, Auto-Disable, Sterile, Fixed Needle, Individually Packaged, 2400 Each                 ",CAS,Each,2400.0,1
+29,Other Non-Pharma,"Syringe, With Needle, 2 mL, 24G x 1.0 in, Auto-Disable, Sterile, Fixed Needle, Individually Packaged, 4800 Each                 ",CTN,Each,4800.0,3
+30,Other RTK,"Pregnancy Test Kit, hCG, Urine, 50 Each                                                                                         ",PKG,Each,50.0,3
+31,Progestin Only Pills,"Levonorgestrel 30 mcg 35 Tablets/Cycle, 1 Cycle                                                                                 ",UNT,Cycle,1.0,43
+32,Standard Days Method,"Standard Days Method Color-Coded Plastic Beads, 1 Each                                                                          ",PCS,Each,1.0,19
